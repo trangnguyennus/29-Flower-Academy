@@ -1,0 +1,46 @@
+[
+    {   "id": 1,
+        "name": "Bridal Bouquet Arrangement",
+        "fee": "1000",
+        "duration": "1 months",
+        "start_date": "01 September 2020",
+        "end_date": "30 September 2020",
+        "timeslot_1": "Morning (9AM - 12PM)",
+        "timeslot_2": "Evening (6PM - 9PM)",
+        "img_name": "bridal-bouquet"
+    },
+
+    {   "id": 2,
+        "name": "Japanese Flower Arrangement",
+        "fee":  "1000",
+        "duration": "1 months",
+        "start_date": "01 September 2020",
+        "end_date": "30 September 2020",
+        "timeslot_1": "Morning (9AM - 12PM)",
+        "timeslot_2": "Evening (6PM - 9PM)",
+        "img_name": "japanese-flower"
+    },
+
+    {   "id": 3,
+        "name": "Vase Flower Arrangement",
+        "fee":  "1000",
+        "duration": "1 months",
+        "start_date": "01 September 2020",
+        "end_date": "30 September 2020",
+        "timeslot_1": "Morning (9AM - 12PM)",
+        "timeslot_2": "Evening (6PM - 9PM)",
+        "img_name": "vase-flower"
+    },
+
+    {   "id": 4,
+        "name": "Western Flower Arrangement",
+        "fee":  "1000",
+        "duration": "1 months",
+        "start_date": "01 September 2020",
+        "end_date": "30 September 2020",
+        "timeslot_1": "Morning (9AM - 12PM)",
+        "timeslot_2": "Evening (6PM - 9PM)",
+        "img_name": "western-flower"
+    }
+    
+]

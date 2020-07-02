@@ -1,0 +1,36 @@
+body {
+    font-family: sans-serif;
+  }
+
+.about-section {
+    padding: 50px;
+    text-align: center;
+    background-color:white;
+    color: #424242;
+    margin-bottom: 80px;
+  }
+
+.button-contact {
+  background-color: #BDBDBD;
+  text-decoration:none;
+  border-radius:5px;
+  cursor:pointer; 
+  margin: center;
+  margin-top: 15px;
+  font-weight: bold;
+  padding: 5 20px;
+}
+
+.button-contact:hover {
+  background-color: #BDBDBD;
+  text-decoration:none;
+}
+
+.res-image {
+  width: 100%;
+  max-width: 400px;
+  height: auto;
+}
+  
+
+

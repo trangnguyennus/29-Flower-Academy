@@ -1,0 +1,35 @@
+* {
+    font-family: sans-serif;
+  }
+  
+.container-fluid {
+    margin-bottom: 100px;
+    margin-top: 50px;
+}
+
+.btn-warning {
+    margin-left: 300px;
+}
+
+.cancel{
+    background-color: #EEEEEE;
+    text-decoration:none;
+    border-radius:5px;
+    cursor:pointer; 
+    margin-left: 150px;
+}
+
+.danger{
+    background-color:#FF0040;
+    color: #FFFFFF;
+}
+
+.danger:hover{
+    background-color:#EB003B;
+    color: #FFFFFF;
+}
+
+.btn-space {
+    margin-right: 15px;
+}
+

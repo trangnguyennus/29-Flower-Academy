@@ -1,0 +1,17 @@
+<div class="container-fluid">
+  <div class="card" *ngFor = 'let course of courses'>
+    <img class="card-img-top" class="img-responsive" src="assets/card-img/{{course.img_name}}.jpg" alt="{{course.name}}">
+    <div class="card-body">
+      <h5 class="card-title">{{course.name}}</h5>
+    </div>
+    <ul class="list-group list-group-flush">
+      <li class="list-group-item"><h6>Fee:</h6> USD{{course.fee}}</li>
+      <li class="list-group-item"><h6>Duration:</h6> {{course.duration}}</li>
+      <li class="list-group-item"><h6>Start Date:</h6> {{course.start_date}}</li>
+      <li class="list-group-item"><h6>End Date:</h6> {{course.end_date}}</li>
+      <li class="list-group-item"><h6>Time:</h6> {{course.timeslot_1}}<br>{{course.timeslot_2}}</li>
+    </ul>
+    <div class="card-body">
+      <a href="./registration-form" class="btn btn-primary">I'm interested!</a>
+    </div>
+</div>

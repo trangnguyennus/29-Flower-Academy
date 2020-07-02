@@ -1,0 +1,38 @@
+.jumbotron {
+  margin-bottom: 0;
+  padding-top: 25px;
+  padding-bottom: 25px;
+  background-color: #8BC34A;
+  border-radius: 0;
+}
+
+.jumbotron h1 {
+  color: #212121;
+  font-weight: bold;
+}
+
+.navbar-nav {
+  font-weight: bold;
+}
+
+.navbar-nav a {
+  color: #212121;
+  padding-top:5px;
+  padding-bottom: 5px;
+  margin-left: 50px;
+}
+
+.navbar {
+  background-color: #DCEDC8;
+}
+
+.navbar-brand {
+  font-weight: bold;
+  color: #E57373;
+}
+
+.navbar-brand:hover {
+  font-weight: bold;
+  color: #E57373;
+}
+

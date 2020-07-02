@@ -1,0 +1,108 @@
+.footer-area {
+  background-color: #AED581;
+  padding: 10px 0px;
+}
+
+.list {
+  list-style: none;
+  margin-left: -38px;
+}
+
+.list a {
+  text-decoration: none;
+  color: #5D4037
+}
+
+.ml-5 p {
+  margin-left: -48px;
+}
+
+.fa-icon-innter-text {
+  font-family: sans-serif;
+  font-size: 17px;
+  font-weight: bold;
+  line-height: 1.5;
+  margin: 0;
+  text-align: left;
+}
+
+.sm-head {
+  color: #5D4037;
+  font-weight: 500;
+  margin: 0px;
+}
+
+  @media (max-width: 991px) {
+    .footer-area {
+      padding: 80px 0px 40px
+    }
+  }
+      @media(max-width: 991px) {
+        .single-footer-widget {
+          margin-bottom: 15px;
+        }
+        .single-footer-widget p {
+          margin-bottom: 15px;
+          margin-top: -10px;
+        }
+        .single-footer-widget p:last-child {
+          margin-bottom: 0;
+        }
+        .single-footer-widget p a {
+          color: #263238;
+        }
+        .single-footer-widget .sm-head {
+          color: #5D4037;
+          margin-bottom: 0px;
+        }
+        .single-footer-widget .sm-head span {
+          position: relative;
+          margin-left: 0px;
+          margin-right: 10px;
+          display: inline-block;
+          line-height: 30px;
+          text-align: center;
+        }
+        .tp-widgets .list li {
+          margin-bottom: 12px;
+        }
+        .tp-widgets .list li a {
+          color: #7b838a;
+          font-family: "Roboto", sans-serif;
+        }
+        /* .tp-widgets .list li a:hover {
+          color: #ff573d;
+        } */
+        .tp-widgets .list li:last-child {
+          margin-bottom: 0px;
+        }
+
+        .info {
+          padding-top: 5px;
+        }
+        .tp-widgets p {
+          color: #7b838a
+        }
+        .footer_title {
+          font-size: 18px;
+          line-height: 24px;
+          font-weight: bold;
+          text-transform: capitalize;
+          color: #333333;
+          margin-bottom: 28px;
+        }
+        @media (max-width: 991px) {
+          .footer_title {
+            margin-bottom: 20px;
+          }}
+          .footer_title.large_title {
+            font-size: 36px;
+            font-weight: 600px;
+          }
+          @media (max-width: 1199px){
+            .footer_title.large_title {
+              font-size: 18px
+            }
+          }
+        }
+   
